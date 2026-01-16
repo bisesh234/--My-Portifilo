@@ -1,4 +1,42 @@
-Contains all the project files 
+#  Notebook Folder
 
-The file from week 2 to week 8  contains the fundementals of python programmming
-The programing part was done weekly in class and helped us to do  the assignment propely 
+Welcome! This folder contains my **Python notebooks** and other work related to programming practice.
+
+These notebooks were created as part of my coursework and lab exercises, where I practise and demonstrate the following:
+
+- Python fundamentals
+- Working with variables and data types
+- Control flow (`if`, `while`, `for`)
+- Functions and modules
+- Lists, strings, and dictionaries
+- Experimenting with examples from lectures
+
+---
+
+
+Below is a brief overview of the notebooks and files in this folder:
+
+###  Example_Notebook.ipynb  
+A Python notebook that contains:
+- Explanations
+- Code snippets
+- Practice exercises
+- Sample outputs
+
+*(Replace this with your actual file names and descriptions!)*
+
+---
+
+##  How to Use
+
+You can open these notebooks using:
+
+- **VS Code**
+- **Jupyter Notebook**
+- **Google Colab**
+
+To run:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/bisesh234/--My-Portifilo.git
