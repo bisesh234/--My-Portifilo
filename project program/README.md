@@ -1,26 +1,62 @@
-This repo contains programing using python including loops , boolen expressions , try  and expect  conditon .
+# My Python Programming Projects
 
-Task 1 contains :
-The program asks the user for four pizza prices
-final order total 
-discount percent
-invaild inputs
+Welcome to my project folder!  
+This repository contains Python programs that I created as part of my **Introduction to Programming** module. These projects helped me practise basic programming concepts and build confidence using Python.
 
-Used features :
-try and exepect
-While loops 
-percent caluctions
+---
 
+##  About This Folder
 
-Task 2 contains:
-The program asks the users to  enter password which must be at least 9character long
-The program asks for 3 charaters from random postion
-if any answer is incorrect the progrm exits
-if all are right access granted
+The programs in this folder focus on:
+- Understanding user input
+- Writing clear conditions using `if`, `elif`, and `else`
+- Using loops such as `for` and `while`
+- Working with lists, strings, and numbers
+- Handling errors and incorrect input
 
-Used features :
-string 
-import random and its functions 
-loops
-conditional logic 
+All code is written at a **beginner-friendly level** and follows what was taught in lectures and lab sessions.
+
+---
+
+## task 1
+
+This program simulates a pizza shop offer where:
+- The customer must order **four pizzas**
+- The **cheapest pizza is free**
+- The program calculates the final total
+- The discount percentage is displayed
+
+The program also checks for invalid input such as negative numbers or non-numeric values.
+
+---
+
+## task 2
+
+This program improves password security by:
+- Asking the user to enter a password
+- Checking that the password is **at least 9 characters long**
+- Randomly asking the user to confirm **three characters** from the password
+- Ending immediately if any answer is incorrect
+
+If all checks are passed, access is granted successfully.
+
+---
+
+##  Skills Practised
+
+- Python basics
+- Conditional logic
+- Loops and iteration
+- Input validation
+- Random number generation
+- Problem solving
+
+---
+
+##  How to Run the Programs
+
+Make sure Python is installed, then run a file using:
+
+```bash
+python filename.py
 
